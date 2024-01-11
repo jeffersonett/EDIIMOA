@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>Recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>OPERACIONES ARITMÉTICAS BÁSICAS</titulo>
+        <subtitulo>MATEMÁTICA BÁSICA</subtitulo>
+        <autor>TENESACA TENESACA JEFFERSON EZEQUIEL</autor>
+        <logo>descarga.png</logo>
+        <imaxefondo posx="-174" posy="-76" trans="50">ff.jpg</imaxefondo>
+        <axuda>Ayuda</axuda>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+         <sonido nivel="10" modo="1" >Feeling-Good.mp3</sonido>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <cabeceira>BIENVENIDOS</cabeceira>
+              <imaxe posx="0" posy="0">MATEMATICAS.jpg</imaxe>
+              <son auto="1">edilim1_(enhanced).mp3</son>
+              <texto posx="50" posy="50" ancho="200" largo="200"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="12"><u></u></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-7">APRENDAMOS_A_SUMAR_copia.png</imaxe>
+              <son auto="1">edilim_2_(enhanced).mp3</son>
+        </paxina>
+        <paxina id="3" >
+              <tipo>5</tipo>
+              <cabeceira>¿Qué es la suma?</cabeceira>
+              <pe>¡Ahora ya sabes que es la suma, sigamos!</pe>
+              <imaxe>1939.jpg</imaxe>
+              <son auto="1">edilim3_(enhanced).mp3</son>
+              <texto><![CDATA[La suma es una forma de juntar o agregar cantidades. Imagina que tienes una caja de juguetes y quieres saber cuántos juguetes tienes en total. Para averiguarlo, puedes usar la suma.
+
+Ya sabes el concepto ahora identifica el signo, puedes utilizar la bolita para ver que signo tienes escondido.
+
+Es el signo de la: __  __  __  __
+]]></texto>
+              <imfondo  posx="41" posy="10">S.png</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>suma</resp>
+              <rdim>80</rdim>
+        </paxina>
+        <paxina id="4" >
+              <tipo>33</tipo>
+              <cabeceira>Realizar la siguiente suma</cabeceira>
+              <pe>¡Vamos tú puedes!</pe>
+              <son auto="1">edilim_4_(enhanced).mp3</son>
+              <modo>0</modo>
+              <forma>4</forma>
+              <numero>2</numero>
+              <numero>2</numero>
+        </paxina>
+        <paxina id="5" >
+              <tipo>33</tipo>
+              <cabeceira>Realizar la siguiente suma</cabeceira>
+              <pe>¡Muy fácil verdad, sigamos!</pe>
+              <son auto="1">edilim_5_(enhanced).mp3</son>
+              <modo>0</modo>
+              <forma>0</forma>
+              <numero>3</numero>
+              <numero>3</numero>
+        </paxina>
+        <paxina id="6" >
+              <tipo>20</tipo>
+              <cabeceira>Arrastre al número que corresponda</cabeceira>
+              <pe>¡Suerte!</pe>
+              <imaxe>la_suma.png</imaxe>
+              <son auto="1">edilim6_(enhanced).mp3</son>
+              <modo>3</modo>
+              <etiqueta posx="429" posy="147">Sumando</etiqueta>
+              <etiqueta posx="253" posy="169">Signo mas</etiqueta>
+              <etiqueta posx="427" posy="200">Sumando</etiqueta>
+              <etiqueta posx="375" posy="234">Suma total</etiqueta>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">APRENDAMOS_A_RESTAR.png</imaxe>
+              <son auto="1">edilim_7_(enhanced).mp3</son>
+        </paxina>
+        <paxina id="8" >
+              <tipo>38</tipo>
+              <cabeceira>¿Qué es la resta?</cabeceira>
+              <pe>¡Ahora ya sabes que es la resta, sigamos!</pe>
+              <imaxe>-.png</imaxe>
+              <son auto="1">edilim_8_(enhanced).mp3</son>
+              <forma>2</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#080000" face="Arial" size="24">La resta es una operación matemática básica que se utiliza para calcular la diferencia entre dos números. En términos simples, la resta consiste en quitar o disminuir una cantidad de otra.<br>
+La imagen es el signo de la: __  __  __  __  __<br>
+<br>
+</font></p>
+]]></texto>
+              <resp>resta</resp>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="9" >
+              <tipo>33</tipo>
+              <cabeceira>Resolver el siguiente ejercicio de resta</cabeceira>
+              <pe>¡Vamos tú puedes!</pe>
+              <son auto="1">edilim_9_(enhanced).mp3</son>
+              <modo>0</modo>
+              <forma>5</forma>
+              <numero>2</numero>
+              <numero>2</numero>
+        </paxina>
+        <paxina id="10" >
+              <tipo>33</tipo>
+              <cabeceira>Resolver el siguiente ejercicio  de resta</cabeceira>
+              <pe>¡Muy fácil verdad, sigamos!</pe>
+              <son auto="1">edilim_10_(enhanced).mp3</son>
+              <modo>0</modo>
+              <forma>1</forma>
+              <numero>3</numero>
+              <numero>3</numero>
+        </paxina>
+        <paxina id="11" >
+              <tipo>20</tipo>
+              <cabeceira>Identifica los números y une según corresponda.</cabeceira>
+              <pe>¡Muy fácil verdad, sigamos!</pe>
+              <imaxe>la_resta.jpg</imaxe>
+              <son auto="1">edilim_11_(enhanced).mp3</son>
+              <modo>9</modo>
+              <etiqueta posx="3" posy="137">Signo de resta</etiqueta>
+              <etiqueta posx="32" posy="182">Resta o Diferencia</etiqueta>
+              <etiqueta posx="105" posy="77">Minuendo</etiqueta>
+              <etiqueta posx="113" posy="137">Sustraendo</etiqueta>
+        </paxina>
+        <paxina id="12" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">APRENDAMOS_A_MULTILICAR.png</imaxe>
+              <son auto="1">edilim_12_(enhanced).mp3</son>
+        </paxina>
+        <paxina id="13" >
+              <tipo>38</tipo>
+              <cabeceira>¿Qué es la multiplicación?</cabeceira>
+              <pe>¡Ahora ya sabes que es la multiplicación, sigamos!</pe>
+              <imaxe>multiplicacion.png</imaxe>
+              <son auto="1">edilim_13_(enhanced).mp3</son>
+              <forma>1</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#080000" face="Arial" size="28"><br>
+<br>
+<br>
+<br>
+La multiplicación es una operación matemática básica que se utiliza para sumar una cantidad repetidas veces. Es decir, es una forma rápida de agregar varias veces el mismo número.<br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="14" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="33">FONDO_DE_MULTIPLICACION.png</imaxe>
+              <son auto="1">edilim_14_(enhanced).mp3</son>
+              <texto posx="657" posy="59" ancho="200" largo="200"><![CDATA[
+<p align="center">
+<font color="#080000" face="Calibri" size="28"><i>Para saber multiplicar, debemos de conocer y memorizar las tablas de multiplicar.</i></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="15" >
+              <tipo>12</tipo>
+              <cabeceira>Aprendamos las tablas de multiplicar</cabeceira>
+              <pe>¡Vamos tú puedes!</pe>
+              <son auto="1">edilim_15_(enhanced).mp3</son>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="TABLA DEL 1">t1.png</galeria>
+              <galeria grande="" son="" texto="TABLA DEL 2">t2.png</galeria>
+              <galeria grande="" son="" texto="TABLA DEL 3">t3.png</galeria>
+              <galeria grande="" son="" texto="TABLA DEL 4">t4.png</galeria>
+              <galeria grande="" son="" texto="TABLA DEL 5">t5.png</galeria>
+              <galeria grande="" son="" texto="TABLA DEL 6">t6.png</galeria>
+        </paxina>
+        <paxina id="16" >
+              <tipo>12</tipo>
+              <cabeceira>Aprendamos las tablas de multiplicar</cabeceira>
+              <pe>¡Muy fácil verdad, sigamos!</pe>
+              <son auto="1">edilim_16_(enhanced).mp3</son>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="TABLA DEL 7">t7.png</galeria>
+              <galeria grande="" son="" texto="TABLA DEL 8">t8.png</galeria>
+              <galeria grande="" son="" texto="TABLA DEL 9">t9.png</galeria>
+              <galeria grande="" son="" texto="TABLA DEL 10">t10.png</galeria>
+              <galeria grande="" son="" texto="TABLA DEL 11">t11.png</galeria>
+              <galeria grande="" son="" texto="TABLA DEL 12">t12.png</galeria>
+        </paxina>
+        <paxina id="17" >
+              <tipo>33</tipo>
+              <cabeceira>Resolver el siguiente ejercicio de multiplicación.</cabeceira>
+              <pe>¡Vamos tú puedes!</pe>
+              <son auto="1">edilim_17_(enhanced).mp3</son>
+              <modo>0</modo>
+              <forma>6</forma>
+              <numero>2</numero>
+              <numero>2</numero>
+        </paxina>
+        <paxina id="18" >
+              <tipo>33</tipo>
+              <cabeceira>Resolver el siguiente ejercicio de multiplicación.</cabeceira>
+              <pe>¡Muy fácil verdad, sigamos!</pe>
+              <son auto="1">edilim_18_(enhanced).mp3</son>
+              <modo>0</modo>
+              <forma>6</forma>
+              <numero>3</numero>
+              <numero>3</numero>
+        </paxina>
+        <paxina id="19" >
+              <tipo>20</tipo>
+              <cabeceira>Arrastre al número según corresponda</cabeceira>
+              <pe>¡Muy fácil verdad, sigamos!</pe>
+              <imaxe>la_multiplicacion.png</imaxe>
+              <son auto="1">edilim_19_(enhanced).mp3</son>
+              <modo>3</modo>
+              <etiqueta posx="270" posy="174">Signo de multiplicación</etiqueta>
+              <etiqueta posx="415" posy="96">Multiplicando</etiqueta>
+              <etiqueta posx="411" posy="180">Multiplicador</etiqueta>
+              <etiqueta posx="261" posy="297">Producto</etiqueta>
+        </paxina>
+        <paxina id="20" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">APRENDAMOS_A_DIVIDIR.png</imaxe>
+              <son auto="1">edilim_20_(enhanced).mp3</son>
+        </paxina>
+        <paxina id="21" >
+              <tipo>38</tipo>
+              <cabeceira>¿Qué es la división?</cabeceira>
+              <pe>¡Ahora ya sabes que es la división, sigamos!</pe>
+              <imaxe>div.jpg</imaxe>
+              <son auto="1">edilim_21_(enhanced).mp3</son>
+              <forma>2</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#080000" face="Arial" size="32">La división es una operación matemática básica que se utiliza para repartir o distribuir una cantidad en partes iguales. Es una forma de compartir o dividir una cantidad en grupos equitativos.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="22" >
+              <tipo>33</tipo>
+              <cabeceira>Resolver el siguiente ejercicio de división</cabeceira>
+              <pe>¡Vamos tú puedes!</pe>
+              <son auto="1">edilim_22_(enhanced).mp3</son>
+              <modo>0</modo>
+              <forma>3</forma>
+              <numero>2</numero>
+              <numero>2</numero>
+        </paxina>
+        <paxina id="23" >
+              <tipo>33</tipo>
+              <cabeceira>Resolver el siguiente ejercicio de división</cabeceira>
+              <pe>¡Muy fácil verdad, sigamos!</pe>
+              <son auto="1">edilim_23_(enhanced).mp3</son>
+              <modo>0</modo>
+              <forma>7</forma>
+              <numero>3</numero>
+              <numero>3</numero>
+        </paxina>
+        <paxina id="24" >
+              <tipo>20</tipo>
+              <cabeceira>Identifica los números y une según corresponda.</cabeceira>
+              <pe>¡Muy Bien!</pe>
+              <imaxe>la_division.png</imaxe>
+              <son auto="1">edilim_24_(enhanced).mp3</son>
+              <modo>9</modo>
+              <etiqueta posx="372" posy="52">Divisor</etiqueta>
+              <etiqueta posx="254" posy="51">Dividendo</etiqueta>
+              <etiqueta posx="349" posy="90">Cociente</etiqueta>
+              <etiqueta posx="297" posy="265">Resto</etiqueta>
+        </paxina>
+        <paxina id="25" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">gracias.jpg</imaxe>
+              <son auto="1">edilim_25_(enhanced).mp3</son>
+        </paxina>
+    </libro>
+</lim>
